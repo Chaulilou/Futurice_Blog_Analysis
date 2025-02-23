@@ -1,0 +1,1 @@
+This directory contains scripts that scrape blog data from the futurice website
